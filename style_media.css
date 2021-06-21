@@ -1,0 +1,285 @@
+@media screen and (max-width: 1302px) {
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 11vw;
+        margin-right: 11vw;
+    }   
+}
+@media  screen and (max-width:1294px) {
+    #clients {
+        flex-wrap: wrap;
+    }
+    #jennie_client_container {
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 1141px) {
+    #brand_text_container, #audience_text_container {
+        padding: 10vw;
+    }
+}
+@media screen and (max-width: 1183px) {
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 10vw;
+        margin-right: 10vw;
+    } 
+}
+@media screen and (max-width: 1125px) {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 35%;
+    }
+}
+@media screen and (max-width: 1104px) {
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 8vw;
+        margin-right: 8vw;
+    } 
+}
+@media screen and (max-width: 1061px)  {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 37%;
+    }
+}
+@media screen and (max-width: 1049px) {
+    #brand_text_container, #audience_text_container {
+        padding: 8vw;
+    }
+}
+@media screen and (max-width:1004px)  {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 40%;
+    }
+    #jennie_client_container {
+        margin-top: 3rem;
+    }
+}
+@media screen and (max-width: 974px) {
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 6vw;
+        margin-right: 6vw;
+    } 
+}
+@media screen and (max-width: 928px)  {
+    #clients {
+        width: 85vw;
+    }
+    #emily_client_container, #thomas_client_container {
+        margin: unset;
+    }
+    #brand_text_container, #audience_text_container {
+        padding: 6vw;
+    }
+}
+@media screen and (max-width: 874px) {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 42%;
+    }
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 4vw;
+        margin-right: 4vw;
+    } 
+}
+@media screen and (max-width: 833px) {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 45%;
+    }
+    #brand_div_container, #audience_div_container, #graphic_design_photo_div_container {
+        flex-direction: column;
+    }
+    #brand_text_container, #audience_text_container {
+        width: 100%;
+        padding: 20vw 15vw;
+        order: 2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #brand_img_container, #audience_img_container {
+        order: 1;
+        width: 100%;
+        height: 85vh;
+    }
+    #brand_heading, #audience_heading {
+        font-size: 3rem;
+        margin-bottom: 2.5rem;
+    }
+    #brand_text, #audience_text {
+        font-size: 1.1rem;
+        margin-bottom: 2.5rem;
+    }
+    #learn_more_container1, #learn_more_container2 {
+        font-size: 1rem;
+    }
+    #graphic_design_container, #photography_container {
+        width: 100%;
+    }
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 15vw;
+        margin-right: 15vw;
+        margin-top: 25rem;
+        margin-bottom: 5rem;
+    }
+    #clients {
+        flex-direction: column;
+        align-items: center;
+    }
+    #thomas_client_container {
+        margin-top: 3rem;
+    }
+    #emily_client_container, #thomas_client_container {
+        border-bottom: 1px solid rgb(204, 204, 204);
+    }
+    #emily_photo_container, #thomas_photo_container, #jennie_photo_container {
+        margin-bottom: 1.5rem;
+    }
+    #emily_descr_container, #thomas_descr_container, #jennie_descr_container {
+        margin-bottom: 1.5rem;
+    }
+    #emily_name_container, #thomas_name_container, #jennie_name_container {
+        margin-bottom: 1.5rem;
+    }
+    #back_to_top_icon_link {
+        display: unset;
+    }
+}
+@media screen and (max-width: 777px) {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 700px) {
+    #top_navbar {
+        display: none;
+    }
+    #mobile_hamburger_icon {
+        display: block;
+    }
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 60%;
+    }
+}
+@media screen and (max-width: 632px) {
+    #creative_cont {
+        margin-top: 2rem;
+        text-align: center;
+    }
+    #creative_main_text {
+        margin-bottom: 2rem;
+    }
+}
+@media screen and (max-width: 585px) {
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 75%;
+    }
+    #photoscontainer {
+        flex-wrap: wrap;
+    }
+    .photos {
+        width: 50%;
+    }
+    #brand_text_container, #audience_text_container {
+        text-align: center;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 550px) {
+    #brand_text_container, #audience_text_container {
+        padding: 20vw 10vw;
+    }
+ }
+ @media screen and (max-width:485px)  {
+    #creative_main_text {
+        font-size: 2.5rem;
+        letter-spacing: 1.5vw;
+    }
+    #brand_heading, #audience_heading  {
+        font-size: 2.5rem;
+    }
+    #brand_text, #audience_text {
+        font-size: 1rem;
+    }
+    #learn_more_container1, #learn_more_container2 {
+        font-size: 0.9rem;
+    }
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 85%;
+    }
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 10vw;
+        margin-right: 10vw;
+}
+@media screen and (max-width: 415px) {
+    #top_sunnyside_logo img {
+        width: 8rem;
+    }
+    #mobile_hamburger_icon {
+        font-size: 1.5rem;
+    }
+    #mobile_menu_close_icon {
+        font-size: 1.5rem;
+    }
+    #brand_heading, #audience_heading {
+        font-size: 2.35rem;
+    }
+    #graphic_design_text_container, #photography_text_container {
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    #emily_client_container, #thomas_client_container, #jennie_client_container {
+        width: 95%;
+    }
+    #clients_heading {
+        margin-top: 5rem;
+    }
+    #clients {
+        margin-bottom: 5rem;
+    }
+}
+@media screen and  (max-width: 380px) {
+    #brand_heading, #audience_heading {
+        font-size: 2.3rem;
+    }
+    #learn_more_container1, #learn_more_container2 {
+        font-size: 0.8rem;
+    }
+    #clients_heading {
+        font-size: 1.3rem;
+    }
+    #emily_descr_container, #thomas_descr_container, #jennie_descr_container {
+        font-size: 0.9rem;
+    }
+}
+@media  screen and (max-width: 370px) {
+    #brand_text_container, #audience_text_container {
+        padding: 20vw 5vw;
+    }
+    #bottom_navbar a {
+        margin: 0 1.5rem;
+    }
+}
+@media screen and (max-width: 330px) {
+    #brand_heading, #audience_heading {
+        font-size: 2.2rem;
+    }
+    #clients_heading {
+        letter-spacing: 0.1rem;
+        font-size: 1.2rem;
+        word-spacing: 0.2rem;
+    }
+}
+@media screen and (max-width: 315px) {
+    #navbar {
+        padding: 2rem 0.5rem;
+    }
+    #creative_main_text {
+        font-size: 2.35rem;
+    }
+    #brand_text_container, #audience_text_container {
+        padding: 20vw 1.5vw;
+    }
+    #brand_heading, #audience_heading {
+        font-size: 2.1rem;
+    }
+    #bottom_navbar a {
+        margin: 0 1rem;
+    }
+}
